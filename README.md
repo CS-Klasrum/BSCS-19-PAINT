@@ -2,7 +2,7 @@
 - a basic paint that can save and paint object or text
 
 ## Started by
-- Chona Camacho Batch 2019-202
+- Chona Camacho Batch 2019-2020
 
 ## Pre-requisites
 - Python 3.5
