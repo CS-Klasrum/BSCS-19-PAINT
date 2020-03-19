@@ -1,4 +1,4 @@
-# BSCS-19-PAINT
+PAINT
 - a basic paint that can save and paint object or text
 
 ## Started by
